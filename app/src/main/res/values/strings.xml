@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyRotateObjectApp</string>
+    <string name="rotationText">Here will be rotation information</string>
+</resources>
